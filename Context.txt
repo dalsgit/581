@@ -1,1 +1,26 @@
-This is a test
+1.1. Objective  
+
+To automate manual process of capturing, classifying & extracting required data to process various requests received via email to operations team. 
+
+1.2. Success Criteria 
+
+Successful automation: - Structure & Unstructured data - High volume Data Management  - Document processing with OCR - Efficient turnaround with minimizing error and increasing accuracy rate 
+
+Other major success criteria are: 
+
+- Machine Learning capability to render efficient results over the time in conjunction with 
+
+ongoing learning to render better and accurate results. 
+
+1.4. Value Realizations 
+
+Business Benefits · Cost save on FTEs · Speed of resolving client requests introduces greater customer satisfaction · Better custom satisfaction results in potential increase BAC’s client survey ratings leading to increase in revenue growth. 
+
+KPI’s · % of emails & documents processed  · Accuracy Report 
+
+2.1. Scope 
+
+To digitalize unstructured emails and documents, classify these emails & documents in various request types, extract required data and create new cases with populating extracted data in ICON application. 
+BR 1.2. System should be able to identify following Request Types: · Internal Bank Transfer · Statement Photocopy · ACH Backup Request 
+
+BR 2.1. System should be able to extract following data points from emails and documents for following request types: Request Type Fields Mandatory / Optional Internal Bank Transfer Credit Account Number M Debit Account Number M Dollar Amount M Email Address O Contact Name  (leveraged for risk type determination) O Statement Photocopy Account Number M Statement Date M ACH Backup Request Account Number  M Amount M Date O 
